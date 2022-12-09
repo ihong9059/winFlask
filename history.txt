@@ -19,3 +19,8 @@ flask shell
 * 2022.12.09 13:23
 chapter 3-06 login
 
+@bp.before_app_request를 적용한 함수는 
+auth_views.py의 라우팅 함수 뿐만 아니라 모든 라우팅 함수보다 항상 먼저 실행된다.
+
+chapter 3-07 logout
+

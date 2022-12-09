@@ -24,3 +24,4 @@ auth_views.py의 라우팅 함수 뿐만 아니라 모든 라우팅 함수보다
 
 chapter 3-07 logout
 
+chapter 3-08 model 수정하기--> 추후 중요 확인 요망
